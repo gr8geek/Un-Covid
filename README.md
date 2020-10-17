@@ -1,3 +1,4 @@
 # Un-Covid
 ## A web portal to predict possible covid breakout
-## Using machine lear
+## Using machine learning
+Assist people during Covid-19
